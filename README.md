@@ -1,4 +1,4 @@
-Automação de Cadastro de Produtos 
+Automação de Cadastro de Produtos  
 Projeto desenvolvido durante estudos de automação com Python
 
 - Este projeto é uma ferramenta de automação desenvolvida em Python para facilitar o cadastro em massa de produtos em um sistema.
