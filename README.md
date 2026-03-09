@@ -1,8 +1,8 @@
 Automação de cadastro de produtos  
 Projeto desenvolvido durante estudos de automação com python
 
-- Este projeto é uma ferramenta de automação desenvolvida em python para facilitar o cadastro em massa de produtos em um sistema.
-Utilizando scripts de automação de interface, o sistema lê uma base de dados externa e preenche os campos automaticamente.
+- Este projeto é uma ferramenta de automação desenvolvida em python para facilitar o cadastro em massa de produtos em um sistema.  
+- Utilizando scripts de automação de interface, o sistema lê uma base de dados externa e preenche os campos automaticamente.
 
 Tecnologias utilizadas:
 - Python: Linguagem principal
