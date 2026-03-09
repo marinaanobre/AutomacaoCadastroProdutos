@@ -12,7 +12,7 @@ Tecnologias utilizadas:
 
 Como executar o projeto?
 1. Instale as bibliotecas necessárias: pip install pyautogui pandas
-2. Certifique-se de que o arquivo "produtos.csv" está na mesma pasta do script.
+2. Verifique se o arquivo "produtos.csv" está na mesma pasta do script.
 3. Execute o script principal: codigo.py
 
 Observação: o projeto utiliza automação de interface com Pyautogui, pode ser necessário ajustar as coordenadas do mouse de acordo com a resolução da sua tela!
