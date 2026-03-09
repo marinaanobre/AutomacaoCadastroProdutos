@@ -7,7 +7,7 @@ Projeto desenvolvido durante estudos de automação com python
 Tecnologias utilizadas:
 - Python: Linguagem principal
 - Pyautogui: Para controlar o mouse e o teclado e interagir com o navegador
-- Pandas: Para a manipulação e leitura da base de dados produtos.csv
+- Pandas: Para a manipulação e leitura da base de dados 
 - Time: Para os intervalos de carregamento entre as páginas
 
 Como executar o projeto?
